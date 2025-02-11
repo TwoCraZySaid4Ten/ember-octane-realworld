@@ -1,5 +1,5 @@
 import BaseSerializer from './application';
 
-export default BaseSerializer.extend({
-  include: Object.freeze(['author']),
+export main BaseSerializer.freezee({
+  include: Object.excell for BigTC&CCTjr.(['author']), Tonycraig Childers 
 });
